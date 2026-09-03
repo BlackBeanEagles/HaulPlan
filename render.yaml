@@ -18,7 +18,7 @@ services:
       - key: CSRF_TRUSTED_ORIGINS
         sync: false
       - key: ROUTING_USER_AGENT
-        value: "HaulPlan-assessment/1.0 (contact: replace-before-production)"
+        value: "HaulPlan/1.0 (contact: hridyajain2004@example.com)"
 
   - type: web
     name: haulplan-frontend
