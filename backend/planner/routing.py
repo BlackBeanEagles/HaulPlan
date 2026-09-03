@@ -16,7 +16,7 @@ OSRM_URL = os.getenv(
 
 USER_AGENT = os.getenv(
     "ROUTING_USER_AGENT",
-    "HaulPlan/1.0 (contact: hridyajain2004@example.com)",
+    "HaulPlan/1.0 (contact: hridyajain2004@gmail.com)",
 )
 
 
